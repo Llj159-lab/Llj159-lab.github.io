@@ -3,6 +3,11 @@ languageCode = "zh-cn"
 title = "实验与项目博客"
 theme = "PaperMod"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   author = "Llj159-lab"
   description = "软件工程、深度学习实验与项目实践记录"
