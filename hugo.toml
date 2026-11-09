@@ -1,5 +1,5 @@
 baseURL = "https://llj159-lab.github.io/"
-languageCode = "zh-cn"
+locale = "zh-cn"
 title = "实验与项目博客"
 theme = "PaperMod"
 
