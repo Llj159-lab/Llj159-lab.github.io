@@ -1,0 +1,6 @@
+# Hugo 构建产物与缓存
+/public/
+/resources/
+
+# Hugo 构建锁文件
+.hugo_build.lock
